@@ -15,6 +15,7 @@ The parts of the code related to the Lie derivative are discussed in:
 
 Please cite the above papers when using this package for research ! :-)
 
+
 The Python package HomotoPy allows to manipulate aromatic forests and forms with the operators defined in the paper.
 
 The file classes.py defines the classes corresponding to the aromatic forests and forms, as well as the operators of the paper.
