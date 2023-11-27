@@ -2,10 +2,13 @@
 Python package for manipulating the aromatic forms on the aromatic bicomplex
 
 This package contains some code in Julia and Matlab for obtaining the results and figures presented in the article:
+
 [ ] A. Laurent, Robert I. McLachlan, Hans Z. Munthe-Kaas, and Olivier Verdier
       The aromatic bicomplex for the description of divergence-free aromatic forms and volume-preserving integrators.
       Forum of Mathematics Sigma.
+      
 The parts of the code related to the Lie derivative are discussed in:
+
 [ ] A. Laurent
       The Lie derivative and Noether's theorem on the aromatic bicomplex.
       Journal of Computational Dynamics.
